@@ -2,7 +2,7 @@
 Une fiction interactive pour s'initier à l'œuvre de Michel de Montaigne
 
 # Introduction
-"Sur le domaine de l'écrivain" est une fiction interactive qui souhaite introduire aux joueur.se.x.s certains aspects de l'œuvre de Michel de Montaigne. Dans cette fiction interactive, les joueur.se.x.s pourront découvrir le domaine et le château dans lequel l'auteur du XVIe siècle a vécu et écrit. Il pourront surtout apprendre à connaître quelques aspects de la pensée de Montaigne, auteur des célèbres _Essais_.
+"Sur le domaine de l'écrivain" est une fiction interactive qui souhaite introduire aux joueur.se.x.s certains aspects de l'œuvre de Michel de Montaigne. Dans cette fiction interactive, les joueur.se.x.s pourront découvrir le domaine et le château dans lequel l'auteur du XVIe siècle a vécu. Il pourront surtout apprendre à connaître quelques aspects de la pensée de Montaigne, auteur des célèbres _Essais_.
 
 Ce travail a été réalisé dans le cadre du cours _Fiction interactive_, enseigné par Isaac Pante à l'Université de Lausanne en automne 2023.
 
