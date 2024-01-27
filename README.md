@@ -6,6 +6,8 @@ Une fiction interactive pour s'initier à l'œuvre de Michel de Montaigne
 
 Ce travail a été réalisé dans le cadre du cours _Fiction interactive_, enseigné par Isaac Pante à l'Université de Lausanne en automne 2023.
 
+Autrice: Morgane Heine (morgane.heine@unil.ch)
+
 # Objectifs
 Cette fiction interactive poursuit un objectif de médiation d'une œuvre importante pour la culture littéraire française auprès d'un public large et non spécialisé. À travers cette aventure ludique et brève, les joueur.se.x.s devraient acquérir des connaissances de base sur l'auteur et son œuvre grâce aux éléments biographiques et aux courts extraits de son œuvre _Les Essais_ intégrés sous forme de dialogues et d'énigmes au jeu.
 
