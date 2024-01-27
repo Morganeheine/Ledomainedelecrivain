@@ -23,6 +23,5 @@ Le projet se centre autour du joueur.se.x qui retourne dans le passé et doit r�
 # Référence
 MONTAIGNE, Michel de: _Les Essais en français moderne_. Édité par André Lanly. Paris : Quarto, 2009.
 
-<img width="1416" alt="Capture d’écran 2024-01-27 à 13 54 47" src="https://github.com/Morganeheine/Ledomainedel-crivain/assets/157886110/e0ae8b75-4b6a-45b5-b31b-8dccdc04b1d3">
-
+<img width="1416" alt="Capture d’écran 2024-01-27 à 13 54 47" src="https://github.com/Morganeheine/Ledomainedel-crivain/assets/157886110/e0ae8b75-4b6a-45b5-b31b-8dccdc04b1d3"><img width="841" alt="Capture d’écran 2024-01-27 à 13 56 42" src="https://github.com/Morganeheine/Ledomainedel-crivain/assets/157886110/aaa226f7-23f0-41a5-996e-cd78ddfd87a7">
 
