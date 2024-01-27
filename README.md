@@ -18,6 +18,6 @@ Le projet se centre autour du joueur.se.x qui retourne dans le passé et doit r�
 
 **La cuisine:** Ici, il s'agira d'aborder une spécificité stylistique de l'écriture de Montaigne dans _Les Essais_.
 
-# Références
+# Référence
 MONTAIGNE, Michel de: _Les Essais en français moderne_. Édité par André Lanly. Paris : Quarto, 2009.
 
