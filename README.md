@@ -16,7 +16,7 @@ Le projet se centre autour du joueur.se.x qui retourne dans le passé et doit r�
 
 **Le hall:** À travers ce chemin, ils comprendront un aspect philosophique important pour l'auteur sur sa conception de la vie et du monde.
 
-**La cuisine:** Ici, il s'agira d'apprendre un aspect stylistique de l'écriture de Montaigne dans _Les Essais_.
+**La cuisine:** Ici, il s'agira d'aborder une spécificité stylistique de l'écriture de Montaigne dans _Les Essais_.
 
 # Références
 MONTAIGNE, Michel de: _Les Essais en français moderne_. Édité par André Lanly. Paris : Quarto, 2009.
